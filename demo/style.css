@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgb(85, 85, 85);
+}
+
+.container {
+    padding-top: 50px;
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: 700;
+}
+h1,h2,h3 {
+    color: rgb(0,0,0);
+}
+
+a {
+    color: #048bf2;
+    font-weight: bold;
+}

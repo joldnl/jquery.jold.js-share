@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>jquery.jold.js-share demo</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link href="style.css" rel="stylesheet">
+        <script src="../jquery.jold.js-share.min.js"></script>
+    </head>
+    <body>
+
+        <div class="container">
+            <h1>JOLD js-share jQuery plugin demo:</h1>
+            <p>A jQuery plugin for easy and quick opening share windows for share buttons.</p>
+            <hr>
+            <ul>
+                <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.nos.nl" class="js-share" data-share-network="facebook">Share on Facebook</a></li>
+                <li><a href="https://twitter.com/home?status=https://www.nos.nl" class="js-share" data-share-network="twitter">Share on Twitter</a></li>
+                <li><a href="https://plus.google.com/share?url=https://www.nos.nl" class="js-share" data-share-network="gplus">Share on Google+</a></li>
+                <li><a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.nos.nl" class="js-share" data-share-network="linkedin">Share on LinkedIn</a></li>
+            </ul>
+        </div>
+
+        <script>
+            (function($){
+                $('.js-share').joldJsShare();
+            })(jQuery);
+        </script>
+
+    </body>
+
+</html>
