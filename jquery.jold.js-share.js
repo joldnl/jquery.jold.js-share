@@ -1,5 +1,5 @@
 /*!
- * JOLD jQuery js-share 1.0.0
+ * JOLD jQuery js-share 1.0.1
  *
  * Copyright (c) 2018 JOLD Interactive; Jurgen Oldenburg <info@jold.nl>
  *

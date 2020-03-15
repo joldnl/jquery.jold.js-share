@@ -1,6 +1,6 @@
 {
   "name": "jquery.jold.js-share",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A jQuery plugin for easy and quick opening share windows for share buttons.",
   "main": "gulpfile.js",
   "devDependencies": {},

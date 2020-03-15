@@ -1,6 +1,6 @@
 # jQuery JOLD Js-share
 
-Version 1.0.0
+Version 1.0.1
 
 ## Summary
 
@@ -37,6 +37,10 @@ Tested with jQuery 1.12.1.
 
 ## Changelog
 
+
+#### Version 1.0.1
+
+* Update node dependancies
 
 #### Version 1.0.0
 
